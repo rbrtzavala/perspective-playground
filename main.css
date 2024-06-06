@@ -71,6 +71,16 @@ button {
   margin-right: 10px;
 }
 
+button:hover {
+  cursor: pointer;
+  background-color: #9b92ee;
+}
+
+button:active {
+  cursor: default;
+  background-color: #8d81f3;
+}
+
 label{
   color: #fff;
 }
